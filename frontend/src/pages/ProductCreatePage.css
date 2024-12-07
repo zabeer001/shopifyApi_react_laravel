@@ -1,0 +1,16 @@
+.product-create-card {
+    max-width: 1200px; /* Increase the width of the card */
+    margin: 0 auto; /* Center align the card */
+    padding: 20px; /* Add padding to the card */
+  }
+  
+
+  
+  .Polaris-TextField {
+    margin-bottom: 20px; /* Add space between fields */
+  }
+  
+  .Polaris-Button {
+    margin-top: 20px; /* Add space above the submit button */
+  }
+  
